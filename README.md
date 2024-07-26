@@ -22,7 +22,7 @@ You can install the required libraries using:
 
 ```bash
 pip install torch pandas scikit-learn
-git clone https://github.com/yourusername/telco-churn-prediction.git
+git clone https://github.com/Amenferjani/telco-churn-prediction.git
 cd telco-churn-prediction
 
 python train.py
